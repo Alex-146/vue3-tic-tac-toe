@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import GameBoard from "./components/SoloGameBoard.vue"
+import GameBoard from "./components/online/GameBoard.vue"
 
 export default {
   name: 'App',
